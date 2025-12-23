@@ -1,3 +1,4 @@
+
 <p align="center">
   <table align="center" border="0">
     <tr>
@@ -5,14 +6,13 @@
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
       </td>
       <td align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/Feras-tec/Feras-tec/main/image.png" width="400" alt="Space Cockpit">
+        <img src="image.png" width="400" alt="Space Cockpit">
         <br>
-        <img src="https://raw.githubusercontent.com/Feras-tec/Feras-tec/main/profile-3d-contrib/profile-night-rainbow.svg" width="400" alt="3D Space">
+        <img src="profile-3d-contrib/profile-night-rainbow.svg" width="400" alt="3D Space">
       </td>
     </tr>
   </table>
 </p>
-
 
 
 
