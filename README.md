@@ -1,10 +1,18 @@
 <p align="center">
-  <img src="image.png" width="100%" />
+  <table align="center" border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/Feras-tec/Feras-tec/main/image.png" width="400" alt="Space Cockpit">
+        <br>
+        <img src="https://raw.githubusercontent.com/Feras-tec/Feras-tec/main/profile-3d-contrib/profile-night-rainbow.svg" width="400" alt="3D Space Contribution">
+      </td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
-</p>
 
 # 👋 Hi, ich bin Feras
 ### 🚀 Backend Voyager | Java & Python | AI Space Integration
