@@ -5,14 +5,11 @@
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Programmer">
       </td>
       <td align="center" valign="middle" width="55%">
-        <img src="image.png" width="100%" alt="Space Cockpit">
-        <br>
-        <img src="https://raw.githubusercontent.com/Feras-tec/Feras-tec/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Stats">
+        <img src="https://raw.githubusercontent.com/Feras-tec/Feras-tec/main/image.png" width="100%" alt="Space Cockpit">
       </td>
     </tr>
   </table>
 </p>
-
 
 
 
