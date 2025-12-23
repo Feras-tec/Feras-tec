@@ -1,17 +1,18 @@
 <p align="center">
   <table align="center" border="0">
     <tr>
-      <td align="center" valign="middle">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Programmer">
+      <td align="center" valign="middle" width="45%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
       </td>
-      <td align="center" valign="middle">
-        <img src="image.png" width="400" alt="Cockpit">
+      <td align="center" valign="middle" width="55%">
+        <img src="image.png" width="100%" alt="Space Cockpit">
         <br>
-        <img src="profile-3d-contrib/profile-night-rainbow.svg" width="400" alt="3D Space">
+        <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Space">
       </td>
     </tr>
   </table>
 </p>
+
 
 
 
