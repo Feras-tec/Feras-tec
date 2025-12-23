@@ -2,10 +2,10 @@
   <table align="center" border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Programmer">
       </td>
       <td align="center" valign="middle">
-        <img src="image.png" width="400" alt="Space Cockpit">
+        <img src="image.png" width="400" alt="Cockpit">
         <br>
         <img src="profile-3d-contrib/profile-night-rainbow.svg" width="400" alt="3D Space">
       </td>
