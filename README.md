@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Feras-tec/Feras-tec/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Space Contribution Banner" />
+  <img src="image.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZueWp4Z3R4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/Lndv7zI0pg3LidU7Uv/giphy.gif" width="400">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 </p>
 
 # 👋 Hi, ich bin Feras
