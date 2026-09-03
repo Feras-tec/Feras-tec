@@ -36,6 +36,14 @@ Support-ticket application with a React interface and REST API. Includes CRUD op
 
 [Live Demo](https://supportdesk-iota.vercel.app/)
 
+### [Luxury Events](https://github.com/Feras-tec/luxury-events)
+
+Modern event-management application with authentication, event discovery and search, calendar views, an interactive dashboard, and create/edit workflows.
+
+**React 19 · TypeScript · Tailwind CSS 4 · daisyUI 5 · Framer Motion · TanStack Router & Query · Clerk**
+
+[Live Demo](https://luxury-events-six.vercel.app/)
+
 ### [NEODRIVE Dashboard](https://github.com/Feras-tec/neodrive-dashboard)
 
 Interactive automotive dashboard with a 3D vehicle configurator, responsive interface and theme switching.
@@ -44,19 +52,11 @@ Interactive automotive dashboard with a 3D vehicle configurator, responsive inte
 
 [Live Demo](https://feras-tec.github.io/neodrive-dashboard/)
 
-### [Luxury Events](https://github.com/Feras-tec/luxury-events)
-
-Responsive event website focused on visual presentation and modern frontend design.
-
-**HTML5 · CSS3 · JavaScript · Responsive Design**
-
-[Live Demo](https://luxury-events-six.vercel.app/)
-
 ## Technical skills
 
 | Area | Technologies |
 | --- | --- |
-| Frontend | HTML5, CSS3, SCSS, Tailwind CSS, DaisyUI, JavaScript, TypeScript, React 19, Vite |
+| Frontend | HTML5, CSS3, SCSS, Tailwind CSS, DaisyUI, JavaScript, TypeScript, React 19, Vite, Framer Motion |
 | Backend | Node.js, Express, Fastify, REST APIs, JSON |
 | Databases | PostgreSQL, SQL, MongoDB, Mongoose, Prisma |
 | Workflow | Git, GitHub, VS Code, Linux, Vercel |
