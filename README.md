@@ -28,6 +28,8 @@ Full-stack platform for automotive services with booking, customer management, i
 
 **React 19 · TypeScript · Fastify · PostgreSQL · Prisma · Clerk · Vitest**
 
+[Live Demo](https://management-system-sand-nu.vercel.app/)
+
 ### [SupportDesk](https://github.com/Feras-tec/supportdesk)
 
 Support-ticket application with a React interface and REST API. Includes CRUD operations, filtering, search, sorting, pagination and structured error handling.
