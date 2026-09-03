@@ -7,7 +7,7 @@
 Ich lebe in Hamburg und suche aktuell ein **Praktikum im Bereich Full-Stack-Webentwicklung**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Projekte_ansehen-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://my-web-dev-journey-nine.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vernetzen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feras-tec/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vernetzen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feras-hifean-2500753a6)
 
 </div>
 
