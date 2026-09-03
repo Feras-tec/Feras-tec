@@ -1,169 +1,73 @@
-<p align="center">
-  <table align="center" border="0">
-    <tr>
-      <td align="center" valign="middle" width="45%">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Programmer">
-      </td>
-      <td align="center" valign="middle" width="55%">
-        <img src="https://raw.githubusercontent.com/Feras-tec/Feras-tec/main/image.png" width="100%" alt="Space Cockpit">
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
 
+# Full-Stack Web Developer in Training
 
+**React · TypeScript · Node.js · Express · PostgreSQL · MongoDB**
 
-# 👋 Hi, ich bin Feras
-### 🚀 Backend Voyager | Java & Python | AI Space Integration
+Based in Hamburg and currently looking for a **Praktikum in Full-Stack Webentwicklung**.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_projects-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://my-web-dev-journey-nine.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feras-tec/)
 
-## 📈 Profile Visits & Social Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Feras-tec&label=Profile+Visits&color=0e75b6&style=for-the-badge&font=bold&logo=github" alt="Profile Visits" height="45"/>
-  <img src="https://komarev.com/ghpvc/?username=Feras-tec&label=Daily+Visits&color=FF69B4&style=for-the-badge&font=bold&logo=github" alt="Daily Visits" height="45"/>
-  <img src="https://img.shields.io/github/followers/Feras-tec?label=Followers&style=for-the-badge&logo=github" alt="Followers" height="45"/>
-  <img src="https://img.shields.io/github/stars/Feras-tec?label=Stars&style=for-the-badge&logo=github" alt="Stars" height="45"/>
-</p>
+</div>
 
----
+## About me
 
-## 👨‍💻 Über mich
-Motivierter Backend-Entwickler mit Fokus auf **Java**, **Python** und moderne Backend-Technologien.  
-Ich entwickle skalierbare Anwendungen, schreibe sauberen Code und arbeite an praxisnahen Projekten mit echtem Mehrwert.  
+I build responsive web applications—from modern user interfaces to REST APIs and databases. My focus is practical, maintainable development with JavaScript and TypeScript.
 
-⭐ **Stetiges Lernen | Clean Code | Skalierbare Lösungen**
+- Developing full-stack applications with React and Node.js
+- Learning backend architecture, authentication, testing and database design
+- Looking for an internship where I can contribute to real projects and grow within a team
+- Languages: Arabic (native), English and German (B2 in progress)
 
----
+## Featured projects
 
-## 📊 GitHub Stats & Top Languages
-<p align="center">
-  <a href="https://github.com/Feras-tec">
-    <img src="https://github-readme-stats.vercel.app/api?username=Feras-tec&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Feras-tec">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feras-tec&theme=radical&hide_border=true" alt="Streak Stats"/>
-  </a>
-</p>
+### [Business Management System](https://github.com/Feras-tec/Management-System-)
 
-<p align="center">
-  <a href="https://github.com/Feras-tec">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feras-tec&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-  </a>
-</p>
+Full-stack platform for automotive services with booking, customer management, inventory, sales, employees and reporting.
 
----
+**React 19 · TypeScript · Fastify · PostgreSQL · Prisma · Clerk · Vitest**
 
-## 🐍 Contribution Snake
-<p align="center">
-  <a href="https://github.com/Feras-tec">
-    <img src="https://github.com/Feras-tec/Feras-tec/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-  </a>
-</p>
+### [SupportDesk](https://github.com/Feras-tec/supportdesk)
 
----
+Support-ticket application with a React interface and REST API. Includes CRUD operations, filtering, search, sorting, pagination and structured error handling.
 
-## 🛠 Tech Stack (Hover Effects)
+**React · Node.js · Express · MongoDB · Mongoose · REST API**
 
-<p align="center">
-  <a href="https://www.java.com/" title="Java">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" alt="Java">
-  </a>
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0d1117" alt="Python">
-  </a>
-  <a href="https://openai.com/" title="OpenAI">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" alt="OpenAI">
-  </a>
-</p>
+[Live Demo](https://supportdesk-iota.vercel.app/)
 
-<p align="center">
-  <a href="https://reactjs.org/" title="React">
-    <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" alt="React">
-  </a>
-  <a href="https://www.docker.com/" title="Docker">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker">
-  </a>
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Git">
-  </a>
-</p>
+### [NEODRIVE Dashboard](https://github.com/Feras-tec/neodrive-dashboard)
+
+Interactive automotive dashboard with a 3D vehicle configurator, responsive interface and theme switching.
+
+**Vite · Tailwind CSS · DaisyUI · Model Viewer**
+
+[Live Demo](https://feras-tec.github.io/neodrive-dashboard/)
+
+### [Luxury Events](https://github.com/Feras-tec/luxury-events)
+
+Responsive event website focused on visual presentation and modern frontend design.
+
+**HTML5 · CSS3 · JavaScript · Responsive Design**
+
+[Live Demo](https://luxury-events-six.vercel.app/)
+
+## Technical skills
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | HTML5, CSS3, SCSS, Tailwind CSS, DaisyUI, JavaScript, TypeScript, React 19, Vite |
+| Backend | Node.js, Express, Fastify, REST APIs, JSON |
+| Databases | PostgreSQL, SQL, MongoDB, Mongoose, Prisma |
+| Workflow | Git, GitHub, VS Code, Linux, Vercel |
+| Practices | Responsive Design, CRUD, Authentication, Error Handling, Testing |
+
+## Current goal
+
+I am looking for a **Full-Stack Webentwicklung Praktikum in Hamburg** where I can apply my frontend experience, strengthen my backend skills and contribute to real products.
 
 ---
 
-## 🚀 Projekte
-<p align="center">
-  <a href="https://github.com/Feras-tec/projekt1"><img src="https://img.shields.io/badge/Projekt1-Java%20%2B%20Python-blue?style=for-the-badge&labelColor=0d1117" alt="Projekt1"></a>
-  <a href="https://github.com/Feras-tec/projekt2"><img src="https://img.shields.io/badge/Projekt2-OpenAI%20Integration-green?style=for-the-badge&labelColor=0d1117" alt="Projekt2"></a>
-</p>
-
----
-
-## 🗣️ Sprachen
-- 🇸🇦 Arabisch:   
-- 🇺🇸 Englisch: 
-- 🇩🇪 Deutsch: 
----
-
-## 💬 Entwickler-Zitat & Fun Fact
-<p align="center">
-  <a href="https://quotes-github-readme.vercel.app/"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"></a>
-</p>
-<p align="center">
-  💡 Fun Fact: Ich liebe es, kleine AI-Tools zur Automatisierung zu bauen!
-</p>
-
----
-
-## 🤝 Kontakt & Social Links
-<p align="center">
-  <a href="https://www.linkedin.com/in/feras-tec/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" title="LinkedIn" alt="LinkedIn"></a>
-  <a href="mailto:fr0000911@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" title="Email" alt="Email"></a>
-  <a href="https://github.com/Feras-tec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" title="GitHub" alt="GitHub"></a>
-</p>
-
----
-
-⭐ *Stetiges Lernen. Sauberer Code. Skalierbare Lösungen.*
-
----
-
-⭐ *Stetiges Lernen. Sauberer Code. Skalierbare Lösungen.*
-
----
-
-⭐ *Stetiges Lernen. Sauberer Code. Skalierbare Lösungen.*
-
----
-
-⭐ *Stetiges Lernen. Sauberer Code. Skalierbare Lösungen.*
-
----
-
-⭐ *Stetiges Lernen. Sauberer Code. Skalierbare Lösungen.*
-
-
----
-
-⭐ *Stetiges Lernen. Sauberer Code. Skalierbare Lösungen.*
- 
-
----
-
-⭐ *Stetiges Lernen. Sauberer Code. Skalierbare Lösungen.*
-r: 
-
-<!--
-**Feras-tec/Feras-tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <sub>Open to internship opportunities and collaboration in Hamburg.</sub>
+</div>
