@@ -1,83 +1,83 @@
 <div align="center">
 
-# Full-Stack Web Developer in Training
+# Full-Stack-Webentwickler in Weiterbildung
 
 **React · TypeScript · Node.js · Express · PostgreSQL · MongoDB**
 
-Based in Hamburg and currently looking for a **Praktikum in Full-Stack Webentwicklung**.
+Ich lebe in Hamburg und suche aktuell ein **Praktikum im Bereich Full-Stack-Webentwicklung**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_projects-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://my-web-dev-journey-nine.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feras-tec/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projekte_ansehen-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://my-web-dev-journey-nine.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vernetzen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feras-tec/)
 
 </div>
 
-## About me
+## Über mich
 
-I build responsive web applications—from modern user interfaces to REST APIs and databases. My focus is practical, maintainable development with JavaScript and TypeScript.
+Ich entwickle responsive Webanwendungen – von modernen Benutzeroberflächen bis hin zu REST-APIs und Datenbanken. Mein Schwerpunkt liegt auf praxisnaher und wartbarer Entwicklung mit JavaScript und TypeScript.
 
-- Developing full-stack applications with React and Node.js
-- Learning backend architecture, authentication, testing and database design
-- Looking for an internship where I can contribute to real projects and grow within a team
-- Languages: Arabic (native), English and German (B2 in progress)
+- Entwicklung von Full-Stack-Anwendungen mit React und Node.js
+- Vertiefung meiner Kenntnisse in Backend-Architektur, Authentifizierung, Testing und Datenbankdesign
+- Interesse an einem Praktikum, in dem ich an realen Projekten mitarbeiten und mich im Team weiterentwickeln kann
+- Sprachen: Arabisch (Muttersprache), Englisch und Deutsch (B2 in Vorbereitung)
 
-## Featured projects
+## Ausgewählte Projekte
 
 ### [Business Management System](https://github.com/Feras-tec/Management-System-)
 
-Full-stack platform for automotive services with booking, customer management, inventory, sales, employees and reporting.
+Full-Stack-Plattform für Kfz-Dienstleistungen mit Terminbuchung sowie Kunden-, Lager-, Verkaufs-, Mitarbeiter- und Berichtsverwaltung.
 
 **React 19 · TypeScript · Fastify · PostgreSQL · Prisma · Clerk · Vitest**
 
-[Live Demo](https://management-system-sand-nu.vercel.app/)
+[Live-Demo ansehen](https://management-system-sand-nu.vercel.app/)
 
 ### [SupportDesk](https://github.com/Feras-tec/supportdesk)
 
-Support-ticket application with a React interface and REST API. Includes CRUD operations, filtering, search, sorting, pagination and structured error handling.
+Support-Ticket-Anwendung mit React-Oberfläche und REST-API. Sie unterstützt CRUD-Operationen, Filterung, Suche, Sortierung, Paginierung und strukturierte Fehlerbehandlung.
 
 **React · Node.js · Express · MongoDB · Mongoose · REST API**
 
-[Live Demo](https://supportdesk-iota.vercel.app/)
+[Live-Demo ansehen](https://supportdesk-iota.vercel.app/)
 
 ### [Luxury Events](https://github.com/Feras-tec/luxury-events)
 
-Modern event-management application with authentication, event discovery and search, calendar views, an interactive dashboard, and create/edit workflows.
+Moderne Event-Management-Anwendung mit Authentifizierung, Veranstaltungssuche, Kalenderansicht, interaktivem Dashboard sowie Funktionen zum Erstellen und Bearbeiten von Events.
 
 **React 19 · TypeScript · Tailwind CSS 4 · daisyUI 5 · Framer Motion · TanStack Router & Query · Clerk**
 
-[Live Demo](https://luxury-events-six.vercel.app/)
+[Live-Demo ansehen](https://luxury-events-six.vercel.app/)
 
 ### [Developer Portfolio](https://github.com/Feras-tec/My-Web-Dev-Journey)
 
-Responsive developer portfolio presenting projects, technical skills and contact information, with installable PWA support and analytics.
+Responsives Entwickler-Portfolio zur Präsentation meiner Projekte und technischen Kenntnisse, mit installierbarer PWA-Unterstützung und Analytics.
 
 **React 19 · TypeScript · Vite 8 · Tailwind CSS 4 · daisyUI 5 · PWA · Vercel Analytics**
 
-[Live Demo](https://my-web-dev-journey-nine.vercel.app/)
+[Live-Demo ansehen](https://my-web-dev-journey-nine.vercel.app/)
 
 ### [NEODRIVE Dashboard](https://github.com/Feras-tec/neodrive-dashboard)
 
-Interactive automotive dashboard with a 3D vehicle configurator, responsive interface and theme switching.
+Interaktives Automotive-Dashboard mit 3D-Fahrzeugkonfigurator, responsiver Benutzeroberfläche und Theme-Wechsel.
 
-**Vite · Tailwind CSS · DaisyUI · Model Viewer**
+**Vite · Tailwind CSS · daisyUI · Model Viewer**
 
-[Live Demo](https://feras-tec.github.io/neodrive-dashboard/)
+[Live-Demo ansehen](https://feras-tec.github.io/neodrive-dashboard/)
 
-## Technical skills
+## Technische Kenntnisse
 
-| Area | Technologies |
+| Bereich | Technologien |
 | --- | --- |
-| Frontend | HTML5, CSS3, SCSS, Tailwind CSS, DaisyUI, JavaScript, TypeScript, React 19, Vite, Framer Motion |
-| Backend | Node.js, Express, Fastify, REST APIs, JSON |
-| Databases | PostgreSQL, SQL, MongoDB, Mongoose, Prisma |
-| Workflow | Git, GitHub, VS Code, Linux, Vercel |
-| Practices | Responsive Design, CRUD, Authentication, Error Handling, Testing |
+| Frontend | HTML5, CSS3, SCSS, Tailwind CSS, daisyUI, JavaScript, TypeScript, React 19, Vite, Framer Motion |
+| Backend | Node.js, Express, Fastify, REST-APIs, JSON |
+| Datenbanken | PostgreSQL, SQL, MongoDB, Mongoose, Prisma |
+| Werkzeuge | Git, GitHub, VS Code, Linux, Vercel |
+| Methoden | Responsive Design, CRUD, Authentifizierung, Fehlerbehandlung, Testing |
 
-## Current goal
+## Berufliches Ziel
 
-I am looking for a **Full-Stack Webentwicklung Praktikum in Hamburg** where I can apply my frontend experience, strengthen my backend skills and contribute to real products.
+Ich suche ein **Praktikum im Bereich Full-Stack-Webentwicklung in Hamburg**, in dem ich meine Frontend-Erfahrung einbringen, meine Backend-Kenntnisse vertiefen und an realen Produkten mitarbeiten kann.
 
 ---
 
 <div align="center">
-  <sub>Open to internship opportunities and collaboration in Hamburg.</sub>
+  <sub>Offen für Praktika und Zusammenarbeit im Raum Hamburg.</sub>
 </div>
