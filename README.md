@@ -46,6 +46,14 @@ Modern event-management application with authentication, event discovery and sea
 
 [Live Demo](https://luxury-events-six.vercel.app/)
 
+### [Developer Portfolio](https://github.com/Feras-tec/My-Web-Dev-Journey)
+
+Responsive developer portfolio presenting projects, technical skills and contact information, with installable PWA support and analytics.
+
+**React 19 · TypeScript · Vite 8 · Tailwind CSS 4 · daisyUI 5 · PWA · Vercel Analytics**
+
+[Live Demo](https://my-web-dev-journey-nine.vercel.app/)
+
 ### [NEODRIVE Dashboard](https://github.com/Feras-tec/neodrive-dashboard)
 
 Interactive automotive dashboard with a 3D vehicle configurator, responsive interface and theme switching.
